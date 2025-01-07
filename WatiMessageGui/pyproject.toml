@@ -1,0 +1,7 @@
+[project]
+name = "watimessagegui"
+version = "0.1.0"
+description = "A GUI to upload excel patient reports and send WhatsApp messages based on relavent templates."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

@@ -5,4 +5,4 @@ This repository contains bespoke projects that are designed and produced for the
 
 ## ✅ Active Projects
 
-- Wati Messaging Services
+-  [💬 Wati Messaging Services](/WatiMessageGui/README.md)
