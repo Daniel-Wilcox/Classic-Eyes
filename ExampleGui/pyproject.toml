@@ -1,0 +1,7 @@
+[project]
+name = "examplegui"
+version = "0.1.0"
+description = "This is an example GUI with Tkinter using the MVP design pattern."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
